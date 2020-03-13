@@ -1,0 +1,6 @@
+D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Abstraction\bin\Debug\Abstraction.exe.config
+D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Abstraction\bin\Debug\Abstraction.exe
+D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Abstraction\bin\Debug\Abstraction.pdb
+D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
+D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Abstraction\obj\Debug\Abstraction.exe
+D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Abstraction\obj\Debug\Abstraction.pdb
