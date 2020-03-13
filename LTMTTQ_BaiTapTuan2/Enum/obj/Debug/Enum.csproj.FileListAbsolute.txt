@@ -1,5 +1,0 @@
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Enum\bin\Debug\Enum.exe.config
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Enum\bin\Debug\Enum.exe
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Enum\bin\Debug\Enum.pdb
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Enum\obj\Debug\Enum.exe
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Enum\obj\Debug\Enum.pdb

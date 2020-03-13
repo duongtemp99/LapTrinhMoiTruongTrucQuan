@@ -1,6 +1,0 @@
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Extends\bin\Debug\Extends.exe.config
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Extends\bin\Debug\Extends.exe
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Extends\bin\Debug\Extends.pdb
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Extends\obj\Debug\Inheritance.csprojAssemblyReference.cache
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Extends\obj\Debug\Extends.exe
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Extends\obj\Debug\Extends.pdb

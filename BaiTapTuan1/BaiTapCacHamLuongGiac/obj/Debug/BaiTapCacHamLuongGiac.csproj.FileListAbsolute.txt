@@ -1,5 +1,0 @@
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan1\BaiTapTuan1\BaiTapCacHamLuongGiac\bin\Debug\BaiTapCacHamLuongGiac.exe.config
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan1\BaiTapTuan1\BaiTapCacHamLuongGiac\bin\Debug\BaiTapCacHamLuongGiac.exe
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan1\BaiTapTuan1\BaiTapCacHamLuongGiac\bin\Debug\BaiTapCacHamLuongGiac.pdb
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan1\BaiTapTuan1\BaiTapCacHamLuongGiac\obj\Debug\BaiTapCacHamLuongGiac.exe
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan1\BaiTapTuan1\BaiTapCacHamLuongGiac\obj\Debug\BaiTapCacHamLuongGiac.pdb

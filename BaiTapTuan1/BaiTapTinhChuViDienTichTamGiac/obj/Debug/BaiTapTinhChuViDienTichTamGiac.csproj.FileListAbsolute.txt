@@ -1,6 +1,0 @@
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan1\BaiTapTuan1\BaiTapTinhChuViDienTichTamGiac\obj\Debug\BaiTapTinhChuViDienTichTamGiac.csprojAssemblyReference.cache
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan1\BaiTapTuan1\BaiTapTinhChuViDienTichTamGiac\bin\Debug\BaiTapTinhChuViDienTichTamGiac.exe.config
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan1\BaiTapTuan1\BaiTapTinhChuViDienTichTamGiac\bin\Debug\BaiTapTinhChuViDienTichTamGiac.exe
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan1\BaiTapTuan1\BaiTapTinhChuViDienTichTamGiac\bin\Debug\BaiTapTinhChuViDienTichTamGiac.pdb
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan1\BaiTapTuan1\BaiTapTinhChuViDienTichTamGiac\obj\Debug\BaiTapTinhChuViDienTichTamGiac.exe
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan1\BaiTapTuan1\BaiTapTinhChuViDienTichTamGiac\obj\Debug\BaiTapTinhChuViDienTichTamGiac.pdb

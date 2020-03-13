@@ -1,5 +1,0 @@
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Index\bin\Debug\Index.exe.config
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Index\bin\Debug\Index.exe
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Index\bin\Debug\Index.pdb
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Index\obj\Debug\Index.exe
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\Index\obj\Debug\Index.pdb

@@ -1,6 +1,0 @@
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\InterFace\bin\Debug\InterFace.exe.config
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\InterFace\bin\Debug\InterFace.exe
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\InterFace\bin\Debug\InterFace.pdb
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\InterFace\obj\Debug\InterFace.csprojAssemblyReference.cache
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\InterFace\obj\Debug\InterFace.exe
-D:\GDU\Hoc_Ki_7\LapTrinhMoiTruongTrucQuan\BaiTap\Tuan2\LTMTTQ_BaiTapTuan2\InterFace\obj\Debug\InterFace.pdb
